@@ -15,8 +15,7 @@ const Intro = () => {
         </span>
         <p className="intro-para">
           Recent Master's graduate in Information Systems Engineering and Junior
-          Software Developer with a focus on
-          <b> Java, React, and the MERN stack</b>. Passionate about innovation
+          Software Developer. Passionate about innovation
           and committed to delivering top-notch web experiences through hands-on
           project work. Eager to make an impact through excellence in code.
         </p>
