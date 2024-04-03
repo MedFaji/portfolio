@@ -16,22 +16,14 @@ const Works = () => {
         innovation and commitment to delivering impactful solutions.
       </span>
       <div className="works-images">
-        <a
-          href="https://yumrush.medevs.tech/"
-          target="_blank"
-          className="works-img"
-        >
-          <img src={portfolio1} alt="" />
+        <a href="https://yumrush.medevs.tech/" target="_blank">
+          <img src={portfolio1} alt="" className="works-img" />
         </a>
-        <a
-          href="https://techquiz.medevs.tech/"
-          target="_blank"
-          className="works-img"
-        >
-          <img src={portfolio2} alt="" />
+        <a href="https://techquiz.medevs.tech/" target="_blank">
+          <img src={portfolio2} alt="" className="works-img" />
         </a>
-        <a href="https://medevs.tech/" className="works-img">
-          <img src={portfolio3} alt="" />
+        <a href="https://medevs.tech/">
+          <img src={portfolio3} alt="" className="works-img" />
         </a>
         {/* <img src={portfolio4} alt="" className="works-img" />
         <img src={portfolio5} alt="" className="works-img" />
