@@ -24,7 +24,7 @@ const Works = () => {
           <img src={portfolio1} alt="" className="works-img" />
         </a>
         <a
-          href="https://yumrush.medevs.tech/"
+          href="https://techquiz.medevs.tech/"
           target="_blank"
           className="works-img"
         >
