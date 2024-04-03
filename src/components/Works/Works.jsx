@@ -21,16 +21,18 @@ const Works = () => {
           target="_blank"
           className="works-img"
         >
-          <img src={portfolio1} alt="" className="works-img" />
+          <img src={portfolio1} alt="" />
         </a>
         <a
           href="https://techquiz.medevs.tech/"
           target="_blank"
           className="works-img"
         >
-          <img src={portfolio2} alt="" className="works-img" />
+          <img src={portfolio2} alt="" />
         </a>
-        <img src={portfolio3} alt="" className="works-img" />
+        <a href="https://medevs.tech/" className="works-img">
+          <img src={portfolio3} alt="" />
+        </a>
         {/* <img src={portfolio4} alt="" className="works-img" />
         <img src={portfolio5} alt="" className="works-img" />
         <img src={portfolio6} alt="" className="works-img" /> */}
