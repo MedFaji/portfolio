@@ -23,7 +23,13 @@ const Works = () => {
         >
           <img src={portfolio1} alt="" className="works-img" />
         </a>
-        <img src={portfolio2} alt="" className="works-img" />
+        <a
+          href="https://yumrush.medevs.tech/"
+          target="_blank"
+          className="works-img"
+        >
+          <img src={portfolio2} alt="" className="works-img" />
+        </a>
         <img src={portfolio3} alt="" className="works-img" />
         <img src={portfolio4} alt="" className="works-img" />
         <img src={portfolio5} alt="" className="works-img" />
